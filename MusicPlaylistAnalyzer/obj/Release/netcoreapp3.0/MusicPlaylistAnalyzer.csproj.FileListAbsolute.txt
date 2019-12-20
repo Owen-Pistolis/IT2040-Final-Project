@@ -1,0 +1,11 @@
+/Users/opistolis/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Release/netcoreapp3.0/MusicPlaylistAnalyzer
+/Users/opistolis/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Release/netcoreapp3.0/MusicPlaylistAnalyzer.deps.json
+/Users/opistolis/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Release/netcoreapp3.0/MusicPlaylistAnalyzer.runtimeconfig.json
+/Users/opistolis/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Release/netcoreapp3.0/MusicPlaylistAnalyzer.runtimeconfig.dev.json
+/Users/opistolis/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Release/netcoreapp3.0/MusicPlaylistAnalyzer.dll
+/Users/opistolis/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/bin/Release/netcoreapp3.0/MusicPlaylistAnalyzer.pdb
+/Users/opistolis/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Release/netcoreapp3.0/MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+/Users/opistolis/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Release/netcoreapp3.0/MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+/Users/opistolis/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Release/netcoreapp3.0/MusicPlaylistAnalyzer.AssemblyInfo.cs
+/Users/opistolis/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Release/netcoreapp3.0/MusicPlaylistAnalyzer.dll
+/Users/opistolis/Projects/MusicPlaylistAnalyzer/MusicPlaylistAnalyzer/obj/Release/netcoreapp3.0/MusicPlaylistAnalyzer.pdb

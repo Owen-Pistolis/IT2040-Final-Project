@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/opistolis/.dotnet/store/|arch|/|tfm|",
+      "/Users/opistolis/.nuget/packages"
+    ]
+  }
+}
